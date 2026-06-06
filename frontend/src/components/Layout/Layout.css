@@ -1,0 +1,19 @@
+/* =====================================================
+   Layout Styles
+   ===================================================== */
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.layout-main {
+  flex: 1;
+  margin-left: var(--sidebar-width);
+  padding-top: var(--navbar-height);
+}
+
+.layout-content {
+  padding: 28px;
+  min-height: calc(100vh - var(--navbar-height));
+  animation: fadeIn var(--transition-normal) ease-out;
+}
