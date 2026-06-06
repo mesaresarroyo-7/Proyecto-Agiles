@@ -117,4 +117,4 @@ Proyecto Agiles/
 
 - Metodología Ágil Scrum
 - Datos ficticios — no contiene información real
-- © 2025 DollarCity Santa Anita
+- © 2026 DollarCity Santa Anita
