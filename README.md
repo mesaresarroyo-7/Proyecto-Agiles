@@ -1,3 +1,5 @@
+> **Estado del repositorio:** versión legada conservada como historial académico. La versión principal mantenida es [gestion-proyectos-agiles-app](https://github.com/mesaresarroyo-7/gestion-proyectos-agiles-app). No publiques archivos `.env` ni credenciales reales en este repositorio.
+
 # 🏪 DollarCity Santa Anita — Sistema de Gestión de Compras, Ventas e Inventario
 
 Sistema web completo para gestionar productos, categorías, proveedores, clientes, compras, ventas, inventario, movimientos de stock y reportes operativos.
